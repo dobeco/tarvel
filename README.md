@@ -1,6 +1,7 @@
 # travel
 
 > A Vue.js project
+在线预览：https://dobeco.github.io/tarvel/dist/#/
 
 ## Build Setup
 
